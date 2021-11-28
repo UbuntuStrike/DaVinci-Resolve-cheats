@@ -1,0 +1,58 @@
+Basics:
+
+    Cut: [Ctrl/Cmd + X]
+    Copy: [Ctrl /Cmd + C]
+    Undo: [Ctrl/Cmd + Z]
+    Redo: [Ctrl/Cmd + Shift + Z]
+    Paste: [Ctrl/Cmd + V]
+    Paste Attribute: [Alt/Option + V]
+    Select All: [Ctrl/Cmd +A]
+    Deselect All: [Ctrl/Cmd + Shift + A] 
+
+File Handling:
+
+    Save: [Ctrl/Cmd + S]
+    Save As: [Ctrl /Cmd + Shift + S]
+    New Bin: [Ctrl/Cmd + Shift + N]
+    New Timeline: [Ctrl/Cmd + N]
+    Import Project: [Ctrl/Cmd + I]
+    Export Project: [Ctrl/Cmd + E]
+    Deselect all tracks: [Ctrl/Cmd+Shift+A] 
+
+Editing:
+
+    Trim: [T]
+    Blade: [B]
+    Razor: [Ctrl/Cmd + B]
+    Pointer: [A]
+    Insert edit: [F9]
+    Overwrite edit: [F10]
+    Replace edit: [F11]
+    Place on top edit: [F12]
+    Delete: [Backspace]
+    Dynamic trim mode: [W]
+    Trim mode: [T]
+    Select clips forward: [Y]
+    Edit point type: [U]
+    Snapping on/off: [N]
+    Split clip: [Ctrl/Cmd + (+) ]
+    Join clip: [Alt/Option + (+) ]
+    Add transition: [Ctrl/CmdPlayback/Navigation:
+
+    Play (forward): [L]
+    Play (reverse): [J]
+    Stop: [K]
+    Go to first frame: [;]
+    Go to last frame: [‘]
+    Go to previous keyframe: [
+    Go to next keyframe: ]
+    Next clip: Down arrow
+    Previous clip: Up arrow
+
+Marking:
+
+    Set mark in: [I]
+    Set mark out: [O]
+    Mark clip: [X]
+    Add Marker: [M]  + T]
+
