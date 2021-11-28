@@ -1,0 +1,105 @@
+File
+
+Firstly, let’s take a look at the shortcuts associated with the File Menu, where you can create new timelines, import and export media, and save your projects.
+Action	Mac	PC
+New Bin	Shift + Command + N	Shift + Control + N
+New Timeline	Command + N	Control + N
+Save Project	Command + S	Control + S
+Save Project As…	Shift + Command + S	Shift + Control + S
+Import Project	Command + I	Control + I
+Export Project	Command + E	Control + E
+Timeline Navigation
+
+The Timeline shortcuts are super helpful in navigating your timeline and playback options. 
+Action	Mac	PC
+Go to First Frame	;	;
+Go to Last Frame	´	´
+Play Around Current Frame	/	/
+Go to Timeline Start	Function + Left Arrow	Home
+Go to Timeline End	Function + Right Arrow	End
+Previous Clip / Edit	Arrow Up	Arrow Up
+Next Clip / Edit	Arrow Down	Arrow Down
+Step One Frame Reverse	Arrow Left	Arrow Left
+Step One Frame Forward	Arrow Right	Arrow Right
+Marking
+
+Marking your timeline is an efficient way of adding reference points to a clip without needing a keyframe or a cut. Use markers for anything that you want to remind yourself of later, but don’t overuse them, or your timeline will become cluttered and confusing.
+Action	Mac	PC
+Mark In	I	I
+Mark Out	O	O
+Clear In	Option + I	Alt + I
+Clear Out	Option + O	Alt + O
+Mark Clip	X	X
+Add Marker	M	M
+Add & Modify Marker	Command + M	Control + M
+Modify Marker	Shift + M	Shift + M
+Delete Marker	Option + M	Alt + M
+Playback
+
+Playback Shortcuts help you watch your edit through in a variety of different ways. Learning these shortcuts will help you quickly watch through, reverse, and loop your clips for review.
+Action	Mac	PC
+Pause/Start Playback	Space	Space
+Play Reverse	J	J
+Stop	K	K
+Play Forward	L	L
+Fast Forward	Shift + L	Shift + L
+Fast Reverse	Shift + J	Shift + J
+Loop/Unloop	Command + /	Control + /
+Play In To Out	Option + /	Alt + /
+Play To Out	Option +  Command + /	Alt + Control + /
+Editing
+
+With these hotkeys, you can quickly jump between editing tools, which can save a ton of time and mouse action.
+Action	Mac	PC
+Normal Edit Mode	A	A
+Trim	T	T
+Blade	B	B
+Razor	Command + B	Control + B
+Insert Edit	F9	F9
+Overwrite Edit	F10	F10
+Replace Edit	F11	F11
+Place On Top Edit	F12	F12
+Delete Selected	Backspace	Backspace
+Fit To Fill	Shift + F11	Shift + F11
+Append At End	Shift + F12	Shift + F12
+Dynamic Trim Mode	W	W
+Trim Mode	T	T
+Select Clips Forward On This Track	Y	Y
+Select Clips Backward on This Track	Command + Y	Control + Y
+Edit Point Type	U	U
+Select Nearest Edit Point	V	V
+Snapping On / Off	N	N
+Nudge One Frame Left	,	,
+Nudge One Frame Right	.	.
+Select Nearest Clip/Gap	Shift + V	Shift + V
+Linked Selection	Shift + Command + L	Shift + Control + L
+Clip Link	Option + Command + L	Alt + Control + L
+Enable Clip	D	D
+Split Clip	Command + \	Control + \
+Join Clips	Option + \	Alt + \
+Select Nearest Edit Point	V	V
+Edit point type	U	U
+Effects
+
+Shortcuts can also help you with your effects, such as retiming clips, adding transitions, and working with keyframes.
+Action	Mac	PC
+Add Transition	Command + T	Control + T
+Retime Controls	Command + R	Control + R
+Reset Retime	Option + Command + R	Alt + Control + R
+Paste Attribute	Option + V	Alt + V
+Add Keyframe	Command + [	Control + [
+Add Static Keyframe	Command + ]	Control + ]
+Delete Keyframe	Option + ]	Alt + ]
+Go to Previous Keyframe	[	[
+Go to Next Keyframe	]	]
+General
+
+Some general shortcuts you can use include copy and paste, as we’ve already mentioned, but you can also use a similar method for a variety of other general actions.
+Action	Mac	PC
+Undo	Command + Z	Control + Z
+Redo	Shift + Command + Z	Shift + Control + Z
+Copy	Command + C	Control + C
+Paste 	Command + V	Control + V
+Select All	Command  + A	Control + A
+Deselect All	Shift + Command + A	Shift + Control + A
+Delete with Ripple	Shift + Delete	Shift + Delete
